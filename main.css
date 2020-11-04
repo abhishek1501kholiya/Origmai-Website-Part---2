@@ -1,0 +1,94 @@
+nav h1{
+    font: bolder;
+    
+    padding-right: 200px;
+    padding-left: 0px;
+    background-color: black;
+    color: white;
+}
+h2{
+    padding-left: 50px;
+}
+
+
+li  img{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+display: flexbox; 
+left: 150px;
+width: 60px;
+}
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 0px;
+
+}
+.grid1{
+    border-style: solid;
+    border-radius: 30%;
+    border-color: #000000;
+}
+body{
+    background-color:  #bc8f8f;
+}
+
+.ori1{
+    
+    font-family: "Montserrat",sans-serif;
+
+   border-style: solid;
+    box-shadow: blue;
+    background-color: #ffffff;
+    font-size: 15px;
+    height: 450px;
+    width: 350px;
+  
+    border-radius: 5%;
+    box-shadow: 10px 10px;
+    
+}
+.ori1:hover img{
+    opacity: 0.33;
+    border-radius: 30%;
+    
+}
+.ori1 img{
+    margin-left: 70px;
+    box-shadow: 5px 5px;
+    
+}
+
+.origami{
+    padding-top: 50px;
+    justify-content: space-around;
+    display: flex;
+}
+
+.ori p{
+    font-weight: bold;
+}
+.ori2{
+    font-family: "Montserrat",sans-serif;
+    margin-top: 70px;
+    border-style: solid;
+     box-shadow: blue;
+     background-color: #ffffff;
+     font-size: 15px;
+     height: 450px;
+     width: 350px;
+   
+     border-radius: 5%;
+     box-shadow: 10px 10px;
+     justify-content: space-around;
+     margin-left: 15px;
+  
+}
+.ori2:hover img{
+    opacity: 0.33;
+    border-radius: 30%;
+    
+}
+.ori2 img{
+    margin-left: 70px;
+    box-shadow: 5px 5px;
+    
+}
